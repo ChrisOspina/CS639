@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Chris</string>
+    <string name="action_settings">Settings</string>
+    <string name = "action_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="next">Next</string>
+    <string name="hobbies_label">Hobbies</string>
+    <string name ="contact_label">Contact</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="bio">I am currently a graduate computer science student at Pace University and
+        seeking opportunities to use the state-of-the-art technology to solve real-world problems.
+        My journey with information technology started during my junior year in high school where
+        I took course in computer technology to fulfill graduation requirements.
+        From there I realized I wanted to pursue IT and software engineering as a career.
+        At Farmingdale State College I took programming courses that covered aspects such as
+        Database Systems, Web Development, Systems Analysis, UNIX Operating Systems,
+        Algorithms and Data Structures. After my time at Farmingdale,
+        I decided to continue my studies at the Seidenberg School of
+        Computer Science and Information Systems. There I took even more classes and I am currently
+        partaking in a Capstone project in anticipation of graduating this coming May.
+    </string>
+    <string name="hobbies">Three main hobbies of mine are theatre, gaming and cosplay.</string>
+    <string name="contact">My email is co05453n@pace.edu</string>
+    <string name="Toast">Going to Contact...</string>
+</resources>
