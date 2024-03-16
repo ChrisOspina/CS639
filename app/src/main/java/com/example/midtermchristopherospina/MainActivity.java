@@ -46,16 +46,16 @@ public class MainActivity extends AppCompatActivity {
     private void MeterstoMM(String value_in_m) {
 //taking in the meters variable
         //value_in_m =editText.getText().toString();
-try{
-    double m =Double.parseDouble(value_in_m);
+        try{
+            double m =Double.parseDouble(value_in_m);
 
-    double mm = m*1000;
+            double mm = m*1000;
 
-    valueinmm.setText(""+ mm);
-}
-catch(NumberFormatException e) {
-    System.err.println("Invalid input. Please enter a numerical value");
-
+            valueinmm.setText(""+ mm);
         }
-    }
-}
+        catch(NumberFormatException e) {
+            System.err.println("Invalid input. Please enter a numerical value");
+
+                }
+            }
+        }
