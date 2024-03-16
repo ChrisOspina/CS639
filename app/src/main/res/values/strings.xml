@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MidtermChristopherOspina</string>
+    <string name="head">Meters to Milimeters converter</string>
+    <string name="enter_label">Enter in Meters here\n</string>
+    <string name="convert">Convert</string>
+    <string name="valueinmm">Type in a value first</string>
+    <string name ="about">This app was developed by Christopher Ospina</string>
+    <string name="typeinval">Type in a value</string>
+
+</resources>

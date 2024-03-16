@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TextView" type="id" />
+    <item name="TextView2" type="id" />
+    <item name="TextView4" type="id" />
+    <item name="Valueinmm" type="id" />
+    <item name="EditText" type="id" />
+    <item name="Button" type="id" />
+</resources>
